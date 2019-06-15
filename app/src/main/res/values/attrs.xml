@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LevelLayout">
+        <attr name="left_margin" format="dimension"></attr>
+        <attr name="right_margin" format="dimension"></attr>
+    </declare-styleable>
+</resources>
